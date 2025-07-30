@@ -1,0 +1,8 @@
+# macOS system files
+.DS_Store
+
+# Node modules folder
+/frontend/node_modules/
+
+# Build output directory
+/frontend/build/
