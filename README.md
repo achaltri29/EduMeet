@@ -13,7 +13,7 @@ EduMeet is a browser-based, real-time video conferencing web app designed for st
 * **STUN Server Integration** – For NAT traversal in P2P connections
 * **Simple UI/UX** – Built with ReactJS and Material UI for responsive, modern design
 
-## 🛠Tech Stack
+## Tech Stack
 
 ### Frontend
 * **ReactJS**
